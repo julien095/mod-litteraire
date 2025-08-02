@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="ht">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>mode litteraire</title>
+  <link rel="stylesheet" href="style1.css">
+ 
+</head>
+<body>
+
+
+  <header>
+    <div class="logo"-Mode litteraire> <img src="data:image/jpeg;base64,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" alt="Mode litteraire" class="logo">
+	
+	</div>
+	<h1>Mode litteraire</h1>
+	<nav>
+      <ul>
+        <li><a href="#">Akèy</a></li>
+        <li><a href="#">parcours litteraire</a></li>
+        <li><a href="#">a la decouverte</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Seksyon 1 -->
+    <section class="sektyon">
+      <h2>parcours litteraire</h2>
+      <div class="atik-lis">
+        <article class="atik">
+          <h3>coup d'oeil sur Jacques Stephen Alexis</h3>
+          <p>Jacques Stephen Alexis : un écrivain engagé et visionnaire dans la littérature haïtienne
+
+<strong>Biographie et trajectoire intellectuelle</strong>
+
+Jacques Stephen Alexis naît aux Gonaïves le 22 avril 1922, fils de l’intellectuel Stephen Alexis. Médecin neurologue de formation, il s’illustre très tôt dans la vie littéraire haïtienne en cofondant dans les années 1940 la revue La Ruche, où il tient une chronique sous le pseudonyme « Jacques la Colère » — symbole de son refus de la passivité face aux inégalités sociales et politiques .
+
+Militant influent, il participe activement à la Révolution de 1946 qui renverse le régime d’Élie Lescot. Opposé à Duvalier, il fonde en 1959 le Parti d’Entente Populaire (PEP) et rédige le Manifeste de la Seconde Indépendance, un appel à un marxisme créatif adapté à Haïti .
+
+En avril 1961, tentant de revenir clandestinement en Haïti, il est capturé et assassiné sous le régime de Duvalier. Son corps ne sera jamais retrouvé, conférant à sa mort une aura mythique et tragique .
+
+<br><strong>Œuvre littéraire majeure</strong>
+
+Compère général soleil (1955)
+
+Premier roman publié chez Gallimard, salué dès sa sortie comme un chef-d’œuvre, il frôle le prix Goncourt. Le récit suit Hilarius Hilarion, un paysan qui radicalise sa révolte contre l’impérialisme américain présent en Haïti, s’inscrivant dans le discours prolétarien haïtien avec un lyrisme puissant .
+
+Les Arbres musiciens (1957)
+
+Ce roman poursuit l’exploration du réalisme social et du merveilleux poétique, dans la lignée de Jacques Roumain, mais avec une écriture plus sensuelle et symbolique .
+
+L’Espace d’un cillement (1959)
+
+Ce roman, construit autour de chacun des cinq sens — puis d’un « sixième sens » émergent — narre l’histoire de Nina Estrellita, ancienne prostituée cubaine, et de Rafaël, ouvrier militant. L’oeuvre déploie une esthétique sensuelle et carnavalesque, reflet de la vie populaire haïtienne, et s’élève comme un roman politique et poétique .
+
+Romancero aux étoiles (1960)
+
+Recueil de contes inspirés de la tradition orale haïtienne (figures comme Bouqui et Malice), il contribue à l’institutionnalisation du lodyans comme genre romanesque national, affirmant l’attachement d’Alexis à une esthétique caribéenne populaire et animée .
+
+L’Étoile Absinthe (posthume, 2017)
+
+Manuscrit retrouvé et publié chez Zulma, suite inachevée de L’Espace d’un cillement, ce récit voit la tentative de Nina Estrellita (Églantine) de rédemption et d’exil dans une navigation périlleuse d’où elle revient grâce à l’intervention vaudoue. Un texte inachevé mais puissant, violent et symbolique, à l’image du contexte politique qui enlève son auteur .
+
+<br>Esthétique et contribution critique
+
+Le réalisme merveilleux
+
+En 1956, Alexis formule la notion de réalisme merveilleux lors du Congrès des écrivains et artistes noirs à la Sorbonne. Il y promeut une esthétique où le réel social — oppression, misère, résistance — se combine à des éléments merveilleux issus de la tradition populaire haïtienne, réconciliant ainsi deux dimensions souvent opposées .
+
+Poétique politique
+
+Son œuvre est à la fois un instrument d’émancipation sociale et une recherche esthétique. Compère général soleil est une épopée prolétarienne, tandis que L’Espace d’un cillement unit sensualité, métissage culturel et critique sociale : le corps devient une allégorie politique et poétique de fécondité et d’égalité .
+L’engagement de l’écrivain en faveur de la transformation du monde littéraire en acte politique est résumé par sa phrase : « L’artiste doit prendre parti, il doit être un combattant » .
+
+<br>Réception, héritage et postérité
+
+Revue Legs et Littérature a consacré son numéro n° 18 à l’œuvre d’Alexis, accompagnant un regain d’intérêt critique dans les années 2021‑22, notamment pour le centenaire de sa naissance .
+
+Les chercheurs en études caribéennes réévaluent son apport au réalisme merveilleux, au lodyans et à l’exploration du folklore haïtien comme matrice littéraire nationale .
+
+Des artistes contemporains comme Dany Laferrière reconnaissent son influence : « Ce qui reste … c’est la plus rayonnante trajectoire dans les lettres haïtiennes » .
+
+Le Prix national Jacques Stephen Alexis du roman, institué par le ministère de la Culture d’Haïti, perpétue son nom en primant la nouvelle génération d’écrivains haïtiens .
+
+<br><strong>Synthèse bibliographique</strong>
+
+Élément Description
+
+Période & contexte Actif de ~1940 à 1961. Sa mort tragique en avril 1961 l’immortalise comme martyr littéraire et politique
+Œuvres clés Compère Général Soleil (1955), Les Arbres musiciens (1957), L’Espace d’un cillement (1959), Romancero aux étoiles (1960), L’Étoile Absinthe (posthume)
+Courants & genres Réalisme social, réalisme merveilleux, lodyans, conte populaire, roman engagé
+Vision esthétique Mariage du réel et du merveilleux, approche sensorielle et carnivalesque, poétique du corps
+Engagement Médical, littéraire et politique : fondateur du PEP, théoricien d’un marxisme créatif
+Réception critique Étudié dans Legs et Littérature, citations par écrivains contemporains, inspirateur du roman caribéen moderne
+Héritage institutionnel Prix national à son nom ; références actuelles dans les revues universitaires et culturelles
+
+<br><strong>Conclusion</strong>
+
+Jacques Stephen Alexis occupe une place singulière et centrale dans la littérature haïtienne : celui d’un écrivain militant, d’un poète sensuel et d’un théoricien esthétique. Sa capacité à croiser la revendication politique, l’identité caribéenne et une poétique du réel magique fait de lui un auteur fondateur, encore célébré par les revues littéraires et étudié dans les milieux critiques et académiques. Sa voix incarne le dépassement d’un pays meurtri par l’histoire, et nourrit la modernité littéraire haïtienne par une vision d’émancipation et de créativité.
+
+Souhaites-tu une fiche pédagogique, un focus en créole, ou une bibliographie détaillée critique sur son œuvre ?</p>
+        </article>
+        <article class="atik">
+          <h3>Tit atik 2</h3>
+          <p>Yon lòt rezime...</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Seksyon 2 -->
+    <section class="sektyon">
+      <h2>a la decouverte</h2>
+      <div class="atik-lis">
+        <article class="atik">
+          <h3>le fils du noir d'Oswald Durand</h3>
+          <p>I<br>
+Je ne puis plus aimer ; le souffle d’une femme
+Ne fera plus frémir mon cœur maintenant froid,
+Car, il a fui, ce temps où deux yeux en mon âme
+Alluminaient un désir mêlé d’un vague effroi :<br><br>
+
+Vieillard de trente étés, mon cœur n’a plus de flamme ;
+Je m’en vais las, courbé, sans joie et sans émoi ;
+Le colombe roucoule et l’amante se pâme,
+Tout s’aime et se caresse en vain autour de moi…<br><br>
+
+Pourtant mon cœur est plein de sève encore ! Le monde
+Ne l’a point desséché de son haleine immonde
+Ni flétri des baisers impurs de ses Phrynés.<br><br>
+
+À vingt ans, j’aimai Lise ; elle était blanche et frêle ;
+Moi, l’enfant du soleil, hélas ! trop brun pour elle,
+Je n’eus pas un regard de ses yeux étonnés…<br><br>
+
+II<br>
+Pourtant ma mère était aussi blanche que Lise !
+Elle avait des yeux bleus où s’endormaient les pleurs ;
+Quand elle rougissait de crainte ou de surprise,
+On croyait voir soudain une grenade en fleurs !…<br><br>
+
+Sa chevelure était blonde aussi. Sous la brise,
+Elle couvrait son front pâli dans les douleurs.
+Mon père était plus noir que moi. Pourtant l’Église,
+Dans un pieux hymen maria leurs couleurs…<br><br>
+
+Puis l’on vit — doux contraste — à sa blanche mamelle
+Pendre un enfant doré comme nos bruns maïs,
+Ardent comme un soleil de notre beau pays.<br><br>
+
+Orphelin, je vis Lise et je l’aimai comme elle ;
+Mais son front pur pâlit à mes aveux troublants :
+Le fils du Noir fit peur à la fille des Blancs…<br></p>
+        </article>
+        <article class="atik">
+          <h3>Tit atik 4</h3>
+          <p>Kontni enteresan sou sa ki ap fèt...</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Ajoute plis seksyon jan ou vle -->
+  </main>
+  
+ <form>
+
+<label for="non">nom:</label>
+  <input type="text" name="nom" placeholder="ekri non ou la".
+  <br>
+  <br>
+  <label for="komante">Komante</label>
+  <textarea cols="30" rows="10"></textarea>
+  <br>
+  <input type="submit" value="voye ale">
+  
+
+
+
+
+
+
+
+</form>
+  <footer>
+    <p>&copy; 2025 Mode litteraire</p>
+  </footer>
+
+  
+
+
+
+</body>
+</html>

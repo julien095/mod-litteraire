@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ht">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>mode litteraire</title>
+  <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+
+  <header>
+    <h1>Mode litteraire</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Akèy</a></li>
+        <li><a href="#">parcours litteraire</a></li>
+        <li><a href="#">a la decouverte</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Seksyon 1 -->
+    <section class="sektyon">
+      <h2>parcours litteraire</h2>
+      <div class="atik-lis">
+        <article class="atik">
+          <h3>coup d'oeil sur Jacques Stephen Alexis</h3>
+          <p>Rezime atik la...</p>
+        </article>
+        <article class="atik">
+          <h3>Tit atik 2</h3>
+          <p>Yon lòt rezime...</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Seksyon 2 -->
+    <section class="sektyon">
+      <h2>Kategori: Entènasyonal</h2>
+      <div class="atik-lis">
+        <article class="atik">
+          <h3>Tit atik 3</h3>
+          <p>Yon ti rezime sou sa k ap pase...</p>
+        </article>
+        <article class="atik">
+          <h3>Tit atik 4</h3>
+          <p>Kontni enteresan sou sa ki ap fèt...</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Ajoute plis seksyon jan ou vle -->
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Sit Mwen</p>
+  </footer>
+
+</body>
+</html>

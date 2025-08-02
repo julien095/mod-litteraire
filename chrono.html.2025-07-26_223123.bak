@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ht">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>mode litteraire</title>
+  <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+
+  <header>
+    <h1>Mode litteraire</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Akèy</a></li>
+        <li><a href="#">parcours litteraire</a></li>
+        <li><a href="#">a la decouverte</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Seksyon 1 -->
+    <section class="sektyon">
+      <h2>parcours litteraire</h2>
+      <div class="atik-lis">
+        <article class="atik">
+          <h3>coup d'oeil sur Jacques Stephen Alexis</h3>
+          <p>Jacques Stephen Alexis : un écrivain engagé et visionnaire dans la littérature haïtienne
+
+<strong>Biographie et trajectoire intellectuelle</strong>
+
+Jacques Stephen Alexis naît aux Gonaïves le 22 avril 1922, fils de l’intellectuel Stephen Alexis. Médecin neurologue de formation, il s’illustre très tôt dans la vie littéraire haïtienne en cofondant dans les années 1940 la revue La Ruche, où il tient une chronique sous le pseudonyme « Jacques la Colère » — symbole de son refus de la passivité face aux inégalités sociales et politiques .
+
+Militant influent, il participe activement à la Révolution de 1946 qui renverse le régime d’Élie Lescot. Opposé à Duvalier, il fonde en 1959 le Parti d’Entente Populaire (PEP) et rédige le Manifeste de la Seconde Indépendance, un appel à un marxisme créatif adapté à Haïti .
+
+En avril 1961, tentant de revenir clandestinement en Haïti, il est capturé et assassiné sous le régime de Duvalier. Son corps ne sera jamais retrouvé, conférant à sa mort une aura mythique et tragique .
+
+<br><strong>Œuvre littéraire majeure</strong>
+
+Compère général soleil (1955)
+
+Premier roman publié chez Gallimard, salué dès sa sortie comme un chef-d’œuvre, il frôle le prix Goncourt. Le récit suit Hilarius Hilarion, un paysan qui radicalise sa révolte contre l’impérialisme américain présent en Haïti, s’inscrivant dans le discours prolétarien haïtien avec un lyrisme puissant .
+
+Les Arbres musiciens (1957)
+
+Ce roman poursuit l’exploration du réalisme social et du merveilleux poétique, dans la lignée de Jacques Roumain, mais avec une écriture plus sensuelle et symbolique .
+
+L’Espace d’un cillement (1959)
+
+Ce roman, construit autour de chacun des cinq sens — puis d’un « sixième sens » émergent — narre l’histoire de Nina Estrellita, ancienne prostituée cubaine, et de Rafaël, ouvrier militant. L’oeuvre déploie une esthétique sensuelle et carnavalesque, reflet de la vie populaire haïtienne, et s’élève comme un roman politique et poétique .
+
+Romancero aux étoiles (1960)
+
+Recueil de contes inspirés de la tradition orale haïtienne (figures comme Bouqui et Malice), il contribue à l’institutionnalisation du lodyans comme genre romanesque national, affirmant l’attachement d’Alexis à une esthétique caribéenne populaire et animée .
+
+L’Étoile Absinthe (posthume, 2017)
+
+Manuscrit retrouvé et publié chez Zulma, suite inachevée de L’Espace d’un cillement, ce récit voit la tentative de Nina Estrellita (Églantine) de rédemption et d’exil dans une navigation périlleuse d’où elle revient grâce à l’intervention vaudoue. Un texte inachevé mais puissant, violent et symbolique, à l’image du contexte politique qui enlève son auteur .
+
+<br>Esthétique et contribution critique
+
+Le réalisme merveilleux
+
+En 1956, Alexis formule la notion de réalisme merveilleux lors du Congrès des écrivains et artistes noirs à la Sorbonne. Il y promeut une esthétique où le réel social — oppression, misère, résistance — se combine à des éléments merveilleux issus de la tradition populaire haïtienne, réconciliant ainsi deux dimensions souvent opposées .
+
+Poétique politique
+
+Son œuvre est à la fois un instrument d’émancipation sociale et une recherche esthétique. Compère général soleil est une épopée prolétarienne, tandis que L’Espace d’un cillement unit sensualité, métissage culturel et critique sociale : le corps devient une allégorie politique et poétique de fécondité et d’égalité .
+L’engagement de l’écrivain en faveur de la transformation du monde littéraire en acte politique est résumé par sa phrase : « L’artiste doit prendre parti, il doit être un combattant » .
+
+<br>Réception, héritage et postérité
+
+Revue Legs et Littérature a consacré son numéro n° 18 à l’œuvre d’Alexis, accompagnant un regain d’intérêt critique dans les années 2021‑22, notamment pour le centenaire de sa naissance .
+
+Les chercheurs en études caribéennes réévaluent son apport au réalisme merveilleux, au lodyans et à l’exploration du folklore haïtien comme matrice littéraire nationale .
+
+Des artistes contemporains comme Dany Laferrière reconnaissent son influence : « Ce qui reste … c’est la plus rayonnante trajectoire dans les lettres haïtiennes » .
+
+Le Prix national Jacques Stephen Alexis du roman, institué par le ministère de la Culture d’Haïti, perpétue son nom en primant la nouvelle génération d’écrivains haïtiens .
+
+<br><strong>Synthèse bibliographique</strong>
+
+Élément Description
+
+Période & contexte Actif de ~1940 à 1961. Sa mort tragique en avril 1961 l’immortalise comme martyr littéraire et politique
+Œuvres clés Compère Général Soleil (1955), Les Arbres musiciens (1957), L’Espace d’un cillement (1959), Romancero aux étoiles (1960), L’Étoile Absinthe (posthume)
+Courants & genres Réalisme social, réalisme merveilleux, lodyans, conte populaire, roman engagé
+Vision esthétique Mariage du réel et du merveilleux, approche sensorielle et carnivalesque, poétique du corps
+Engagement Médical, littéraire et politique : fondateur du PEP, théoricien d’un marxisme créatif
+Réception critique Étudié dans Legs et Littérature, citations par écrivains contemporains, inspirateur du roman caribéen moderne
+Héritage institutionnel Prix national à son nom ; références actuelles dans les revues universitaires et culturelles
+
+<br><strong>Conclusion</strong>
+
+Jacques Stephen Alexis occupe une place singulière et centrale dans la littérature haïtienne : celui d’un écrivain militant, d’un poète sensuel et d’un théoricien esthétique. Sa capacité à croiser la revendication politique, l’identité caribéenne et une poétique du réel magique fait de lui un auteur fondateur, encore célébré par les revues littéraires et étudié dans les milieux critiques et académiques. Sa voix incarne le dépassement d’un pays meurtri par l’histoire, et nourrit la modernité littéraire haïtienne par une vision d’émancipation et de créativité.
+
+Souhaites-tu une fiche pédagogique, un focus en créole, ou une bibliographie détaillée critique sur son œuvre ?</p>
+        </article>
+        <article class="atik">
+          <h3>Tit atik 2</h3>
+          <p>Yon lòt rezime...</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Seksyon 2 -->
+    <section class="sektyon">
+      <h2>a la decouverte</h2>
+      <div class="atik-lis">
+        <article class="atik">
+          <h3>le fils du noir d'Oswald Durand</h3>
+          <p>I<br>
+Je ne puis plus aimer ; le souffle d’une femme
+Ne fera plus frémir mon cœur maintenant froid,
+Car, il a fui, ce temps où deux yeux en mon âme
+Alluminaient un désir mêlé d’un vague effroi :<br><br>
+
+Vieillard de trente étés, mon cœur n’a plus de flamme ;
+Je m’en vais las, courbé, sans joie et sans émoi ;
+Le colombe roucoule et l’amante se pâme,
+Tout s’aime et se caresse en vain autour de moi…<br><br>
+
+Pourtant mon cœur est plein de sève encore ! Le monde
+Ne l’a point desséché de son haleine immonde
+Ni flétri des baisers impurs de ses Phrynés.<br><br>
+
+À vingt ans, j’aimai Lise ; elle était blanche et frêle ;
+Moi, l’enfant du soleil, hélas ! trop brun pour elle,
+Je n’eus pas un regard de ses yeux étonnés…<br><br>
+
+II<br>
+Pourtant ma mère était aussi blanche que Lise !
+Elle avait des yeux bleus où s’endormaient les pleurs ;
+Quand elle rougissait de crainte ou de surprise,
+On croyait voir soudain une grenade en fleurs !…<br><br>
+
+Sa chevelure était blonde aussi. Sous la brise,
+Elle couvrait son front pâli dans les douleurs.
+Mon père était plus noir que moi. Pourtant l’Église,
+Dans un pieux hymen maria leurs couleurs…<br><br>
+
+Puis l’on vit — doux contraste — à sa blanche mamelle
+Pendre un enfant doré comme nos bruns maïs,
+Ardent comme un soleil de notre beau pays.<br><br>
+
+Orphelin, je vis Lise et je l’aimai comme elle ;
+Mais son front pur pâlit à mes aveux troublants :
+Le fils du Noir fit peur à la fille des Blancs…<br></p>
+        </article>
+        <article class="atik">
+          <h3>Tit atik 4</h3>
+          <p>Kontni enteresan sou sa ki ap fèt...</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Ajoute plis seksyon jan ou vle -->
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Sit Mwen</p>
+  </footer>
+
+</body>
+</html>

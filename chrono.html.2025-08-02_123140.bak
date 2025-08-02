@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="ht">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>mode litteraire</title>
+  <link rel="stylesheet" href="style1.css">
+ 
+</head>
+<body>
+
+
+  <header>
+    <div class="logo"-Mode litteraire> <img src="data:image/png;base64,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" alt="Mode litteraire" class="logo">
+	
+	</div>
+	<h1>Mode litteraire</h1>
+	<nav>
+      <ul>
+        <li><a href="#">Akèy</a></li>
+        <li><a href="#">parcours litteraire</a></li>
+        <li><a href="#">a la decouverte</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Seksyon 1 -->
+    <section class="sektyon">
+      <h2>parcours litteraire</h2>
+      <div class="atik-lis">
+        <article class="atik">
+          <h3>coup d'oeil sur Jacques Stephen Alexis</h3>
+          <p>Jacques Stephen Alexis : un écrivain engagé et visionnaire dans la littérature haïtienne
+
+<strong>Biographie et trajectoire intellectuelle</strong>
+
+Jacques Stephen Alexis naît aux Gonaïves le 22 avril 1922, fils de l’intellectuel Stephen Alexis. Médecin neurologue de formation, il s’illustre très tôt dans la vie littéraire haïtienne en cofondant dans les années 1940 la revue La Ruche, où il tient une chronique sous le pseudonyme « Jacques la Colère » — symbole de son refus de la passivité face aux inégalités sociales et politiques .
+
+Militant influent, il participe activement à la Révolution de 1946 qui renverse le régime d’Élie Lescot. Opposé à Duvalier, il fonde en 1959 le Parti d’Entente Populaire (PEP) et rédige le Manifeste de la Seconde Indépendance, un appel à un marxisme créatif adapté à Haïti .
+
+En avril 1961, tentant de revenir clandestinement en Haïti, il est capturé et assassiné sous le régime de Duvalier. Son corps ne sera jamais retrouvé, conférant à sa mort une aura mythique et tragique .
+
+<br><strong>Œuvre littéraire majeure</strong>
+
+Compère général soleil (1955)
+
+Premier roman publié chez Gallimard, salué dès sa sortie comme un chef-d’œuvre, il frôle le prix Goncourt. Le récit suit Hilarius Hilarion, un paysan qui radicalise sa révolte contre l’impérialisme américain présent en Haïti, s’inscrivant dans le discours prolétarien haïtien avec un lyrisme puissant .
+
+Les Arbres musiciens (1957)
+
+Ce roman poursuit l’exploration du réalisme social et du merveilleux poétique, dans la lignée de Jacques Roumain, mais avec une écriture plus sensuelle et symbolique .
+
+L’Espace d’un cillement (1959)
+
+Ce roman, construit autour de chacun des cinq sens — puis d’un « sixième sens » émergent — narre l’histoire de Nina Estrellita, ancienne prostituée cubaine, et de Rafaël, ouvrier militant. L’oeuvre déploie une esthétique sensuelle et carnavalesque, reflet de la vie populaire haïtienne, et s’élève comme un roman politique et poétique .
+
+Romancero aux étoiles (1960)
+
+Recueil de contes inspirés de la tradition orale haïtienne (figures comme Bouqui et Malice), il contribue à l’institutionnalisation du lodyans comme genre romanesque national, affirmant l’attachement d’Alexis à une esthétique caribéenne populaire et animée .
+
+L’Étoile Absinthe (posthume, 2017)
+
+Manuscrit retrouvé et publié chez Zulma, suite inachevée de L’Espace d’un cillement, ce récit voit la tentative de Nina Estrellita (Églantine) de rédemption et d’exil dans une navigation périlleuse d’où elle revient grâce à l’intervention vaudoue. Un texte inachevé mais puissant, violent et symbolique, à l’image du contexte politique qui enlève son auteur .
+
+<br>Esthétique et contribution critique
+
+Le réalisme merveilleux
+
+En 1956, Alexis formule la notion de réalisme merveilleux lors du Congrès des écrivains et artistes noirs à la Sorbonne. Il y promeut une esthétique où le réel social — oppression, misère, résistance — se combine à des éléments merveilleux issus de la tradition populaire haïtienne, réconciliant ainsi deux dimensions souvent opposées .
+
+Poétique politique
+
+Son œuvre est à la fois un instrument d’émancipation sociale et une recherche esthétique. Compère général soleil est une épopée prolétarienne, tandis que L’Espace d’un cillement unit sensualité, métissage culturel et critique sociale : le corps devient une allégorie politique et poétique de fécondité et d’égalité .
+L’engagement de l’écrivain en faveur de la transformation du monde littéraire en acte politique est résumé par sa phrase : « L’artiste doit prendre parti, il doit être un combattant » .
+
+<br>Réception, héritage et postérité
+
+Revue Legs et Littérature a consacré son numéro n° 18 à l’œuvre d’Alexis, accompagnant un regain d’intérêt critique dans les années 2021‑22, notamment pour le centenaire de sa naissance .
+
+Les chercheurs en études caribéennes réévaluent son apport au réalisme merveilleux, au lodyans et à l’exploration du folklore haïtien comme matrice littéraire nationale .
+
+Des artistes contemporains comme Dany Laferrière reconnaissent son influence : « Ce qui reste … c’est la plus rayonnante trajectoire dans les lettres haïtiennes » .
+
+Le Prix national Jacques Stephen Alexis du roman, institué par le ministère de la Culture d’Haïti, perpétue son nom en primant la nouvelle génération d’écrivains haïtiens .
+
+<br><strong>Synthèse bibliographique</strong>
+
+Élément Description
+
+Période & contexte Actif de ~1940 à 1961. Sa mort tragique en avril 1961 l’immortalise comme martyr littéraire et politique
+Œuvres clés Compère Général Soleil (1955), Les Arbres musiciens (1957), L’Espace d’un cillement (1959), Romancero aux étoiles (1960), L’Étoile Absinthe (posthume)
+Courants & genres Réalisme social, réalisme merveilleux, lodyans, conte populaire, roman engagé
+Vision esthétique Mariage du réel et du merveilleux, approche sensorielle et carnivalesque, poétique du corps
+Engagement Médical, littéraire et politique : fondateur du PEP, théoricien d’un marxisme créatif
+Réception critique Étudié dans Legs et Littérature, citations par écrivains contemporains, inspirateur du roman caribéen moderne
+Héritage institutionnel Prix national à son nom ; références actuelles dans les revues universitaires et culturelles
+
+<br><strong>Conclusion</strong>
+
+Jacques Stephen Alexis occupe une place singulière et centrale dans la littérature haïtienne : celui d’un écrivain militant, d’un poète sensuel et d’un théoricien esthétique. Sa capacité à croiser la revendication politique, l’identité caribéenne et une poétique du réel magique fait de lui un auteur fondateur, encore célébré par les revues littéraires et étudié dans les milieux critiques et académiques. Sa voix incarne le dépassement d’un pays meurtri par l’histoire, et nourrit la modernité littéraire haïtienne par une vision d’émancipation et de créativité.
+
+Souhaites-tu une fiche pédagogique, un focus en créole, ou une bibliographie détaillée critique sur son œuvre ?</p>
+        </article>
+        <article class="atik">
+          <h3>Tit atik 2</h3>
+          <p>Yon lòt rezime...</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Seksyon 2 -->
+    <section class="sektyon">
+      <h2>a la decouverte</h2>
+      <div class="atik-lis">
+        <article class="atik">
+          <h3>le fils du noir d'Oswald Durand</h3>
+          <p>I<br>
+Je ne puis plus aimer ; le souffle d’une femme
+Ne fera plus frémir mon cœur maintenant froid,
+Car, il a fui, ce temps où deux yeux en mon âme
+Alluminaient un désir mêlé d’un vague effroi :<br><br>
+
+Vieillard de trente étés, mon cœur n’a plus de flamme ;
+Je m’en vais las, courbé, sans joie et sans émoi ;
+Le colombe roucoule et l’amante se pâme,
+Tout s’aime et se caresse en vain autour de moi…<br><br>
+
+Pourtant mon cœur est plein de sève encore ! Le monde
+Ne l’a point desséché de son haleine immonde
+Ni flétri des baisers impurs de ses Phrynés.<br><br>
+
+À vingt ans, j’aimai Lise ; elle était blanche et frêle ;
+Moi, l’enfant du soleil, hélas ! trop brun pour elle,
+Je n’eus pas un regard de ses yeux étonnés…<br><br>
+
+II<br>
+Pourtant ma mère était aussi blanche que Lise !
+Elle avait des yeux bleus où s’endormaient les pleurs ;
+Quand elle rougissait de crainte ou de surprise,
+On croyait voir soudain une grenade en fleurs !…<br><br>
+
+Sa chevelure était blonde aussi. Sous la brise,
+Elle couvrait son front pâli dans les douleurs.
+Mon père était plus noir que moi. Pourtant l’Église,
+Dans un pieux hymen maria leurs couleurs…<br><br>
+
+Puis l’on vit — doux contraste — à sa blanche mamelle
+Pendre un enfant doré comme nos bruns maïs,
+Ardent comme un soleil de notre beau pays.<br><br>
+
+Orphelin, je vis Lise et je l’aimai comme elle ;
+Mais son front pur pâlit à mes aveux troublants :
+Le fils du Noir fit peur à la fille des Blancs…<br></p>
+        </article>
+        <article class="atik">
+          <h3>Tit atik 4</h3>
+          <p>Kontni enteresan sou sa ki ap fèt...</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Ajoute plis seksyon jan ou vle -->
+  </main>
+  
+ <form>
+
+<label for="non">nom:</label>
+  <input type="text" name="nom" placeholder="ekri non ou la".
+  <br>
+  <br>
+  <label for="komante">Komante</label>
+  <textarea cols="30" rows="10"></textarea>
+  <br>
+  <input type="submit" value="voye ale">
+  
+
+
+
+
+
+
+
+</form>
+  <footer>
+    <p>&copy; 2025 Mode litteraire</p>
+  </footer>
+
+  
+
+
+
+</body>
+</html>

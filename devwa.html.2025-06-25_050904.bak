@@ -1,0 +1,130 @@
+<!Doctype html>
+<html lang="ht">
+<head>
+    <meta charset="utf-8">
+	<meta name="viewport" content=width=device-width initial-scale=1.0">
+    <img src="logo 1"> 
+<body>
+ <img src="logo 1"> 
+  
+    <h1 align="center">Lectures & Réflexions</h1>
+    <p align="center"><em>Un espace pour les amoureux de la littérature et de la philosophie</em></p>
+    <hr>
+
+    <!-- MENU NAVIGASYON -->
+    <nav>
+        <p>
+            <a href="#litterature">Littérature</a> |
+            <a href="#philosophie">Philosophie</a> |
+            <a href="#contact">Contact</a>
+        </p>
+    </nav>
+    <hr>
+
+    <!-- SEKSYON LITERATI -->
+    <h2 id="litterature">📚 Littérature</h2>
+    <p>La littérature est l’âme d’une nation. Ici, nous explorons les chefs-d’œuvre de Victor Hugo, Dostoïevski, Jacques Roumain, et plus encore.</p>
+
+    <h3>Recommandations :</h3>
+    <ul>
+        <li><strong>Les Misérables</strong> – Victor Hugo</li>
+        <li><strong>Gouverneurs de la rosée</strong> – Jacques Roumain</li>
+        <li><strong>Crime et Châtiment</strong> – Dostoïevski</li>
+    </ul>
+
+    <!-- SEKSYON FILOZOFI -->
+    <h2 id="philosophie">🧠 Philosophie</h2>
+    <p>La philosophie nous apprend à penser librement. Nous partageons ici des réflexions de Platon, Kant, Nietzsche et plus encore.</p>
+
+    <h3>Réflexions du mois :</h3>
+    <ol>
+        <li>« Connais-toi toi-même » – Socrate</li>
+        <li>« La liberté, c’est l’obéissance à la loi qu’on s’est prescrite » – Rousseau</li>
+        <li>« Dieu est mort » – Nietzsche</li>
+    </ol>
+
+    <!-- IMAJ OPSYONÈL -->
+    <p><img src="images/philo-livre.jpg" alt="liv filozofi" width="300"></p>
+
+    <!-- FÒM KONTAK -->
+    <h2 id="contact">📬 Contactez-nous</h2>
+    <form>
+        <p>
+            <label>Nom :</label><br>
+            <input type="text" name="nom"><br><br>
+
+            <label>Email :</label><br>
+            <input type="email" name="email"><br><br>
+
+            <label>Message :</label><br>
+            <textarea rows="4" cols="40"></textarea><br><br>
+
+            <input type="submit" value="Envoyer">
+        </p>
+    </form>
+
+    <!-- PIED DE PAGE -->
+    <hr>
+    <footer>
+        <p align="center">© 2025 Lectures & Réflexions - Tous droits réservés</p>
+    </footer>
+
+</body>
+</html>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

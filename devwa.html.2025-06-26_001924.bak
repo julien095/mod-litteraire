@@ -1,0 +1,131 @@
+<!Doctype html>
+<html lang="ht">
+<head>
+    <meta charset="utf-8">
+	<meta name="viewport" content=width=device-width initial-scale=1.0">
+    <img src="logo 1"> 
+<body>
+    <img src="logo literati"> 
+  
+    <h1 align="center">Lectures & Réflexions</h1>
+    <p align="center"><em>Un espace pour les amoureux de la littérature et de la philosophie</em></p>
+    <hr>
+
+    <!-- MENU NAVIGASYON -->
+    <nav>
+        <p>
+            <a href="#litterature">Littérature</a> |
+			  <a href="#philosophie">Philosophie</a> |
+            <a href="#contact">Contact</a>
+        </p>
+    </nav>
+    <hr>
+
+    <!-- SEKSYON LITERATI -->
+    <h2 id="litterature">📚 Littérature</h2>
+    <p>La littérature est l’âme d’une nation. Ici, nous explorons les chefs-d’œuvre de Victor Hugo, Dostoïevski, Jacques Roumain, et plus encore.</p>
+
+    <h3>Recommandations :</h3>
+    <ul>
+        <li><strong>Les Misérables</strong> – Victor Hugo</li>
+        <li><strong>Gouverneurs de la rosée</strong> – Jacques Roumain</li>
+		<p>Jacques Roumain se youn nan figi senbòl nan literati ak politik ayisyen. Menmsi lavi li te kout (1907–1944), li te ranpli ak richès entèlektyèl ak angajman ekstraòdinè. Timounaj li ak edikasyon Jacques Roumain te fèt 4 jen 1907 nan Pòtoprens, nan yon fanmi ki te byen kanpe. Li se pitit pitit Tancrède Auguste, ki te prezidan Ayiti ant 1912 ak 1913. Li te ale lekòl nan kolèj Saint-Louis de Gonzague ann Ayiti, epi li te kontinye etid li nan Swis, anvan li vwayaje Almay, Lafrans, Angletè ak Espay, kote li te kòmanse etid nan agronomi. Li te ale tou nan University Columbia nan New York, epi li te swiv fòmasyon nan etnoloji nan Sorbòn ak Ozetazini. Angajman politik ak entèlektyèl Lè li tounen Ayiti lè li te gen anviwon 20 an, Jacques Roumain te antre byen vit nan lavi entèlektyèl ak politik peyi a. Li te kofonde “Revue Indigène” ak zanmi li Normil Sylvain — yon jounal ki te jwe yon wòl kle nan mouvman literè ayisyen nan epòk la. Li te fè anpil kanpay kont okipasyon ameriken an (1915–1934), li te pibliye atik ki t ap denonse sitiyasyon an nan jounal “Le Petit Impartial” epi li te ede fonde “Ligue de la jeunesse patriote haïtienne” an 1930. Angajman sa yo te fè l arete e mete l nan prizon plizyè fwa. An 1934, li fonde Pati Kominis Ayisyen, sa ki lakoz yo mete l nan prizon ankò pou plis pase yon lane. Pandan tout arestasyon sa yo, sante li te vin degrade, sitou ak maladi tankou malarya. Travay literè ak syantifik Malgre tout boulvès nan lavi li, Jacques Roumain kite dèyè li yon patrimwàn literè ak syantifik ki gen anpil valè. Ekriti li yo eksprime fristrasyon, kòlè ak espwa pèp li a, epi li lanse apèl pou inite ak lit kont enjistis. Pami prensipal zèv li yo : ➤ Woman ak nouvèl : Les Fantoches (1931 La Montagne ensorcelée (1931) Gouverneurs de la rosée (pibliye apre lanmò li an 1944), ki konsidere kòm pi gwo zèv li. Woman sa a dekri lavi peyizan ayisyen, konfli ant fanmi, rechèch dlo, ak jistis sosyal. ➤ Pwezi : Bois d'Ébène (yon rekèy powèm) ➤ Travay syantifik : Li fonde Biwo Nasyonal Etnoloji ann Ayiti lè li tounen soti an ekzil. Li ekri sou etnobotanik prekolonbyen nan Zantiy yo (etid sou plant ak konesans medsin pèp endijèn yo). Fen lavi li An 1943, prezidan Élie Lescot nonmen Jacques Roumain kòm diplomat nan Meksik. Se la li fini woman Gouverneurs de la rosée nan mwa jiyè 1944. Men, li te malad e li te oblije retounen Ayiti. Li mouri nan Pòtoprens 18 out 1944, a laj 37 an. Eritaj li Jacques Roumain se youn nan gran ekriven nan literati karayibeyen. Zèv li kontinye gen enfliyans sou kilti ayisyen ak afriken. Angajman li pou diyite pèp li a ak talan literè li fè l vin tounen yon otè ou pa ka inyore.</p>
+        <li><strong>Crime et Châtiment</strong> – Dostoïevski</li>
+    </ul>
+
+    <!-- SEKSYON FILOZOFI -->
+    <h2 id="philosophie">🧠 Philosophie</h2>
+    <p>La philosophie nous apprend à penser librement. Nous partageons ici des réflexions de Platon, Kant, Nietzsche et plus encore.</p>
+
+    <h3>Réflexions du mois :</h3>
+    <ol>
+        <li>« Connais-toi toi-même » – Socrate</li>
+        <li>« La liberté, c’est l’obéissance à la loi qu’on s’est prescrite » – Rousseau</li>
+        <li>« Dieu est mort » – Nietzsche</li>
+    </ol>
+
+    <!-- IMAJ OPSYONÈL -->
+    <p><img src="images/philo-livre.jpg" alt="liv filozofi" width="300"></p>
+
+    <!-- FÒM KONTAK -->
+    <h2 id="contact">📬 Contactez-nous</h2>
+    <form>
+        <p>
+            <label>Nom :</label><br>
+            <input type="text" name="nom"><br><br>
+
+            <label>Email :</label><br>
+            <input type="email" name="email"><br><br>
+
+            <label>Message :</label><br>
+            <textarea rows="4" cols="40"></textarea><br><br>
+
+            <input type="submit" value="Envoyer">
+        </p>
+    </form>
+
+    <!-- PIED DE PAGE -->
+    <hr>
+    <footer>
+        <p align="center">© 2025 Lectures & Réflexions - Tous droits réservés</p>
+    </footer>
+
+</body>
+</html>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
